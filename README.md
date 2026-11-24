@@ -25,3 +25,7 @@ npm --prefix app run build:pages
 - `app/public/assets/` 存放桌面及手机构图底图、核心图和自托管的标题字体。字体授权见同目录。
 
 在网址上加 `?still` 可检查静态场景和降级交互，例如 `/v3/?still#explore/laboratory`。
+
+## V4 · The Awakening
+
+V4 发布在 `v4/`，源码在 `app-v4/`。动态状态、镜头节奏与测试命令见 [V4 动态设计规范](docs/motion-direction-v4.md)。
